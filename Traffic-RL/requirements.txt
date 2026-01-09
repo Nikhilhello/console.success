@@ -1,1 +1,15 @@
+#--------------------
+pygame
+numpy
+torch
+matplotlib
+#------------------------
+
+
+| Library      | Purpose                                         |
+| ------------ | ----------------------------------------------- |
+| `pygame`     | Professional traffic simulation & visualization |
+| `numpy`      | Numerical operations                            |
+| `torch`      | Reinforcement Learning / AI model               |
+| `matplotlib` | Performance graphs (static vs AI)               |
 
