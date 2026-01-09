@@ -12,6 +12,15 @@ This project demonstrates a **professional traffic signal simulation** that comp
 The system dynamically adjusts traffic signals based on **vehicle queue density** and includes **emergency vehicle (ambulance) priority handling** to ensure realistic and practical traffic management.
 
 ---
+<img width="1530" height="1080" alt="image" src="https://github.com/user-attachments/assets/f48aa06a-dd97-4f71-bc5b-25435e983555" />
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/d35229d6-fcda-4035-bf91-dfd9c3bfe030" width="49.5%" />
+  <img src="https://github.com/user-attachments/assets/4eb2befc-6023-4b55-85a8-a176bf30578e" width="49.5%" />
+</div>
+
+
+---
 
 ## 🎯 Project Objectives
 - Simulate a realistic **4-way traffic intersection**
@@ -174,7 +183,7 @@ A working demo video demonstrating:
 - Emergency vehicle priority handling
 
 📺 **YouTube Demo Link:**  
-*(Add your YouTube link here)*
+*([YouTube link](https://youtu.be/Q5RxgqOfbsI?si=xme_Jsdrfyn72Z1f))*
 
 ---
 
