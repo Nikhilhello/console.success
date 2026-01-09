@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📌 Project-01 Overview
 Traffic congestion is a critical issue in modern cities due to **static, timer-based traffic signals** that do not adapt to real-time traffic conditions.  
 This project demonstrates a **professional traffic signal simulation** that compares:
 
