@@ -2,3 +2,12 @@ opencv-python
 numpy
 matplotlib
 scipy
+
+
+
+| Library           | Purpose                                                             |
+| ----------------- | ------------------------------------------------------------------- |
+| `opencv-python`   | Real-time computer vision, webcam processing, face and shadow detection |
+| `numpy`           | Numerical and matrix operations for shadow analysis and depth estimation |
+| `matplotlib`      | Shadow intensity heatmap and visualization of light attenuation     |
+| `scipy`           | Scientific and mathematical support for physics-based calculations  |
