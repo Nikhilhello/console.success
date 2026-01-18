@@ -104,25 +104,6 @@ Start the real-time system using:
 python main.py
 ```
 
-Here is the text formatted in Markdown, ready to copy and paste.
-
-Markdown
-
-## 7. Installation
-1. **Clone the repository** (if applicable) or navigate to the project directory.
-2. **Install dependencies** using pip:
-
-```bash
-pip install -r requirements.txt
-Ensure your requirements.txt includes: opencv-python, numpy, and matplotlib.
-
-8. Running the Application
-Start the real-time system by running the main script:
-
-```Bash
-python main.py
-```
-
 ---
 
 
