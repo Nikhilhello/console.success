@@ -126,7 +126,7 @@ The demo video demonstrates:
 
 ---
 📺 **YouTube Demo Link:**  
-*([YouTube link](fttttttttttt))*
+*([YouTube link](https://youtu.be/drpdnaXcstw)*
 
 ## 🌐 GitHub Repository
 🔗 **GitHub Repository Link:**  
