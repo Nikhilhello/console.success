@@ -16,6 +16,12 @@ The system analyzes the **shadow cast by a hand on the face under a single domin
 * **Privacy/Efficiency:** Run **fully offline** with no APIs or internet usage.
 
 ---
+<div style="display: flex; gap: 10px;">
+  <img  alt="Screenshot (766)" src="https://github.com/user-attachments/assets/e3832569-043c-4f08-bca4-7d278cf30033" width="49.5%" />
+  <img  alt="Screenshot (767)" src="https://github.com/user-attachments/assets/7cc83e3a-4877-4885-bd95-13d96777156b" width="49.5%" />
+</div>
+
+---
 
 ## 3. Core Idea: The Physics of Shadows
 When a hand approaches the face, it blocks incoming light and creates a shadow on the facial surface. As the hand moves closer:
