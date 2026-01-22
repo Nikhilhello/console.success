@@ -1,0 +1,21 @@
+(venv) PS C:\Users\user\Desktop\console.success\cotton-analysis> python train.py
+>>
+✅ Data loaders created successfully
+Classes: ['phase1_damaged', 'phase1_healthy', 'phase2_damaged', 'phase2_healthy', 'phase3_damaged', 'phase3_healthy', 
+'phase4_damaged', 'phase4_healthy']
+C:\Users\user\Desktop\console.success\cotton-analysis\venv\Lib\site-packages\torchvision\models\_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+C:\Users\user\Desktop\console.success\cotton-analysis\venv\Lib\site-packages\torchvision\models\_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=MobileNet_V2_Weights.IMAGENET1K_V1`. You can also use `weights=MobileNet_V2_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch [1/10] Loss: 34.1153
+Epoch [2/10] Loss: 30.8228
+Epoch [3/10] Loss: 28.3174
+Epoch [4/10] Loss: 25.8697
+Epoch [5/10] Loss: 24.3599
+Epoch [6/10] Loss: 23.0409
+Epoch [7/10] Loss: 19.9398
+Epoch [8/10] Loss: 17.6480
+Epoch [9/10] Loss: 17.1388
+Epoch [10/10] Loss: 15.7761
+✅ Model training completed & saved
+(venv) PS C:\Users\user\Desktop\console.success\cotton-analysis> 
