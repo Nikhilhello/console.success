@@ -149,7 +149,8 @@ JSON
 
 <div style="display: flex; gap: 10px;">
   <img alt="image" src="https://github.com/user-attachments/assets/472ef73d-b98b-474a-ad8e-7467f44058b6" width="49.5%" />
-  <img src="https://github.com/user-attachments/assets/4eb2befc-6023-4b55-85a8-a176bf30578e" width="49.5%" />
+  <img alt="image" src="https://github.com/user-attachments/assets/f10c39ff-7f1e-4e24-9b2b-ab1bdc96dc74" width="49.5%" />  
+  <!-- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f10c39ff-7f1e-4e24-9b2b-ab1bdc96dc74" width="49.5%" />   -->
 </div>
 
 ---
@@ -166,9 +167,19 @@ The predicted **Health Score** and **Ripped/Damaged status** are derived from a 
 This system is intended as a **decision-support tool**, not a replacement for expert agronomic judgment.  
 Future improvements include expanding the dataset, incorporating field-collected images, and refining the health scoring mechanism with domain-specific annotations.
 
+---
 
 ## 🛠️ Technologies Used
 
+- **Python** – Core programming language for model development and deployment  
+- **PyTorch** – Deep learning framework used to build and train the CNN model  
+- **TorchVision** – Pretrained models, image transformations, and utilities  
+- **MobileNetV2** – Lightweight CNN backbone used for transfer learning  
+- **OpenCV** – Image processing and Grad-CAM heatmap visualization  
+- **Streamlit** – Web framework used to deploy the interactive UI  
+- **NumPy** – Numerical computations and array operations  
+- **Pillow (PIL)** – Image loading and preprocessing  
+- **icrawler** – Automated image collection for dataset creation  
 
 
 
