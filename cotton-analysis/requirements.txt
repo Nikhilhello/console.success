@@ -1,0 +1,27 @@
+torch
+torchvision
+flask
+pillow
+opencv-python
+numpy
+requests
+
+
+streamlit
+icrawler
+matplotlib
+
+
+# | Library           | Purpose                                                                     |
+# | ----------------- | --------------------------------------------------------------------------- |
+# | **torch**         | Core deep learning framework used to build, train, and run the CNN model    |
+# | **torchvision**   | Provides pretrained models (MobileNetV2) and image transformation utilities |
+# | **flask**         | Lightweight web framework used to build the image-to-JSON inference API     |
+# | **pillow**        | Image loading and basic image preprocessing                                 |
+# | **opencv-python** | Image processing and Grad-CAM heatmap visualization                         |
+# | **numpy**         | Numerical operations and array manipulation                                 |
+# | **requests**      | Sending HTTP requests to test the inference API                             |
+# | **streamlit**     | Interactive web UI for deploying and showcasing the model                   |
+# | **icrawler**      | Automated image collection for dataset creation                             |
+# | **matplotlib**    | Visualization of results and debugging plots                                |
+
