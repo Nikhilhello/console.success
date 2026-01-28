@@ -5,7 +5,7 @@ The system is designed to assist farmers and agricultural experts in making **da
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Project Overview  
 
 Traditional crop inspection relies on manual observation, which is time-consuming and error-prone.
 This project uses **Deep Learning and Computer Vision** to automatically analyze cotton crop images and provide:
@@ -180,8 +180,6 @@ Future improvements include expanding the dataset, incorporating field-collected
 - **NumPy** – Numerical computations and array operations  
 - **Pillow (PIL)** – Image loading and preprocessing  
 - **icrawler** – Automated image collection for dataset creation  
-
-
 
 ---
 ## 📌 Use Cases
